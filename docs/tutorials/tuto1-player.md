@@ -1,3 +1,5 @@
+*(Version longue – test mise à jour)*
+
 # Tuto 1 – Player et déplacements
 
 Dans ce tutoriel, tu vas créer ton personnage et apprendre à le déplacer.
