@@ -1,10 +1,13 @@
-# Tuto 1 – Player et déplacements
+# Tuto 1
 
-Tu vas créer ton personnage et apprendre à le déplacer.
-Tu vas utiliser **les blocs** puis découvrir comment **le même programme s’écrit en Python**.
+Dans ce tutoriel, tu vas créer ton personnage et apprendre à le déplacer.
 
-## Step 1 – Créer le personnage (en blocs)
+## Step 1
+Créer le personnage (en blocs)
 
-## Step 2 – Faire bouger le personnage (en blocs)
+## Step 2
+Faire bouger le personnage (en blocs)
 
-## Step 3 – Observer le code en Python (premier contact)
+## Step 3
+Observer le code en Python (premier contact)
+
