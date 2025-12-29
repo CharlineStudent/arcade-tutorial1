@@ -10,6 +10,7 @@
         "README.md",
         "assets.json",
         "docs/tutorials/tuto1-player.md"
+        "docs/tutorials/tuto1-player-v2.md"
     ],
     "testFiles": [
         "test.ts"
