@@ -1,29 +1,20 @@
 {
-    "name": "Arcade-tutorial1",
-    "description": "",
-    "dependencies": {
-        "device": "*"
-    },
-    "files": [
-        "main.blocks",
-        "main.ts",
-        "README.md",
-        "assets.json",
-        "docs/tutorials/tuto1-player.md"
-        "docs/tutorials/tuto1-player-v2.md"
-    ],
-    "testFiles": [
-        "test.ts"
-    ],
-    "targetVersions": {
-        "target": "2.0.63",
-        "targetId": "arcade"
-    },
-    "supportedTargets": [
-        "arcade"
-    ],
-    "preferredEditor": "blocksprj",
-    "tutorials": {
-        "default": "docs/tutorials"
-    }
+  "name": "arcade-tutorial1",
+  "dependencies": {
+    "device": "*"
+  },
+  "files": [
+    "main.ts",
+    "main.blocks",
+    "README.md"
+  ],
+  "preferredEditor": "blocksprj",
+  "supportedTargets": [
+    "arcade"
+  ],
+  "tutorials": {
+    "tuto1-player": "docs/tutorials/tuto1-player-v3"
+  }
 }
+
+
